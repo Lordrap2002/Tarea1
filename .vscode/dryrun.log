@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make.exe: Entering directory 'c:/Santi/Jave/Semestre5/Sistemas Operativos/Tarea1'
+gcc -c main.c
+gcc -o tarea main.o
+make.exe: Leaving directory 'c:/Santi/Jave/Semestre5/Sistemas Operativos/Tarea1'
+ 
