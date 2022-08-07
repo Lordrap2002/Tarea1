@@ -3,9 +3,9 @@
 Constructor:
 ------------
 
-`make`
+Solo es necesario el comando `make` en la consola
 
 Instalación:
 ------------
 
-Construir y `.\Salida.exe`
+Construir y ejecutar `.\tarea.exe`
